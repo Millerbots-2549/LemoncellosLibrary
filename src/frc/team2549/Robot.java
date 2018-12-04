@@ -5,15 +5,15 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.team0000;
+package frc.team2549;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import frc.team0000.commands.ExampleCommand;
-import frc.team0000.subsystems.ExampleSubsystem;
+import frc.team2549.commands.ExampleCommand;
+import frc.team2549.subsystems.ExampleSubsystem;
 
 /**
  * The VM is configured to automatically run this class, and to call the
@@ -22,6 +22,7 @@ import frc.team0000.subsystems.ExampleSubsystem;
  * creating this project, you must also update the build.properties file in the
  * project.
  */
+//comiit eeijfwiofjwiofjwifherwf8yfgwy887qr78ftw0rf8weyrfye89rfyrgy7wef9ywgd79gw7ydg9uqyrfwurhf0s8uhf0cushf9uhwa9rfh08quf87qywqu9vhs89rfhwyaef78qerfhwyicgyqwc8wgtrfc0rgc9uwegrf9hpuwefh08udfhys078fywe0rfgwy7erfg0e8rfh0w8yh
 // If you rename or move this class, update the build.properties file in the project root
 public class Robot extends TimedRobot 
 {
