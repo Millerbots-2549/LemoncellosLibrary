@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-// AHmed Is Kool
+// AHmed Is in the Kool Kidz Klub
 
 package frc.team2549;
 
