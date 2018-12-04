@@ -2,11 +2,9 @@
 .gradle/
 build/
 bin/
-config
+config/
 dist/
 .settings/
 .project
 .classpath
-*.iws
-*.iml
 *.ipr

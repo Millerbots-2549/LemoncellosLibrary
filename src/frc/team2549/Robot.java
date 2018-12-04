@@ -26,13 +26,13 @@ import frc.team2549.subsystems.ExampleSubsystem;
 // If you rename or move this class, update the build.properties file in the project root
 public class Robot extends TimedRobot 
 {
-
+// hi
     public static final ExampleSubsystem exampleSubsystem = new ExampleSubsystem();
     public static OI oi;
 
     private Command autonomousCommand;
     private SendableChooser<Command> chooser = new SendableChooser<>();
-
+// jack sucks butt
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
